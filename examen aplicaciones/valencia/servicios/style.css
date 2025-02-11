@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(252, 236, 214);
+    color: blue;
+}
+
+p.logo {
+    text-align: center;
+}
+
+nav.menu {
+background-color: aqua;
+text-align: center;
+}
+
+
+footer {
+text-align: center;
+}
+
+
+.servicio {
+background-color: yellow;
+}

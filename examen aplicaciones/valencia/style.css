@@ -1,0 +1,32 @@
+p.logo {
+    text-align: center;
+}
+
+nav.menu {
+background-color: aqua;
+text-align: center;
+}
+
+.desarrollar {
+    background-color: white;
+
+}
+.empresa1 {
+ float: left;
+    clear: right;
+}
+
+.empresa {
+    clear: both;
+}
+
+body {
+    background-color: rgb(252, 236, 214);
+}
+
+footer {
+    text-align: center;
+}
+.servicio {
+    background-color: yellow;
+}
